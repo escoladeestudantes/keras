@@ -12,6 +12,8 @@
 <li>https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml</li>
 </ul>
 
+<p>Imagem de entrada dos detectores faciais da biblioteca DLIB resultam em expressões diferentes.</p>
+
 Corrigir erro:
 <p><b>...</p></b>
 <p><b>Function call stack:</p></b>
